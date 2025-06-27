@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_IMAGE = 'manikiran7/multi-stage-example'
+        DOCKER_IMAGE = 'eshwar0310/amazon-nginx'
         TAG = 'v0.0.1'
     }
 
