@@ -7,7 +7,7 @@ pipeline {
     }
 
     tools {
-        maven 'Maven'       // Configure Maven in Jenkins Global Tools
+        maven 'maven'       // Configure Maven in Jenkins Global Tools
     
     }
 
